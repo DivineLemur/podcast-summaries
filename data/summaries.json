@@ -1,1 +1,84 @@
-{"podcasts":{}}
+{
+  "podcasts": {
+    "a16z-podcast": {
+      "id": "a16z-podcast",
+      "name": "a16z Podcast",
+      "description": "Tech and culture trends from Andreessen Horowitz",
+      "rssUrl": "https://feeds.simplecast.com/AuWJKpna",
+      "website": "https://a16z.com/podcasts/",
+      "episodes": [
+        {
+          "id": "a16z-podcast-1769852024451",
+          "podcast_id": "a16z-podcast",
+          "podcast_name": "a16z Podcast",
+          "title": "What Comes After Mobile? Meta’s Andrew Bosworth on AI and Consumer Tech",
+          "published_date": "Thu, 24 Apr 2025 10:00:00 +0000",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/62c6d266-e92e-4dc7-a180-9f3aa623e441/episodes/e8a1914c-dedd-45fd-99c7-a20b43386c11/audio/128/default.mp3?aid=rss_feed&awCollectionId=62c6d266-e92e-4dc7-a180-9f3aa623e441&awEpisodeId=e8a1914c-dedd-45fd-99c7-a20b43386c11&feed=AuWJKpna",
+          "duration": "00:32:30",
+          "summary": {
+            "one_liner": "Meta's CTO argues we're approaching a post-mobile era where AI agents replace apps and intent replaces taps, fundamentally reshaping how we interact with technology.",
+            "estimated_read_time": "12 min",
+            "key_insights": [
+              {
+                "category": "Platform Strategy",
+                "title": "The Post-Mobile Era Will Run on Intent, Not Apps",
+                "content": "Bosworth believes we're witnessing the end of the smartphone-centric era that has dominated consumer tech for two decades. The current model—apps accessed through taps and swipes on touchscreens—will give way to something fundamentally different: an agentic system that responds to user intent rather than explicit commands.\n\nThis shift mirrors how computing platforms have evolved historically. Just as the web replaced desktop software and mobile apps replaced web browsing for many use cases, the next platform will be built around AI agents that understand context and execute complex tasks without users navigating through traditional app interfaces.\n\nThe implications are profound. Instead of opening specific apps to accomplish tasks, users will express their intent and AI systems will orchestrate the necessary actions across multiple services and platforms. This could make the current app store model—and the businesses built around it—as obsolete as CD-ROM software.",
+                "quote": "If we get it right, the next wave of consumer tech won't run on taps and swipes—it'll run on intent",
+                "timestamp": "15:00"
+              },
+              {
+                "category": "Product Development",
+                "title": "Building Bridges to the Future While Serving Today's Users",
+                "content": "Rather than waiting for the perfect future technology, Bosworth advocates for creating 'bridge products' that gradually introduce users to new paradigms. Meta's approach with smart glasses exemplifies this philosophy—they're building devices that work with today's smartphones while laying the foundation for tomorrow's AR experiences.\n\nThis strategy acknowledges a crucial reality: revolutionary technologies rarely achieve mass adoption overnight. Users need time to adapt, and the technology needs time to mature. By creating products that provide immediate value while pointing toward future capabilities, companies can build user bases and iterate toward their ultimate vision.\n\nThe key is ensuring these bridge products aren't just tech demos—they must solve real problems for real people today. Otherwise, they become expensive experiments that fail to build the market foundation necessary for future breakthroughs.",
+                "timestamp": "11:36"
+              },
+              {
+                "category": "AI Strategy",
+                "title": "Open Source AI as Competitive Moat Building",
+                "content": "Bosworth frames Meta's commitment to open source AI through the lens of 'commoditizing your complements'—a strategic principle where you make adjacent technologies cheap and widely available to increase demand for your core offering.\n\nBy open-sourcing Llama and other AI models, Meta isn't giving away its competitive advantage—it's creating one. When AI capabilities become commoditized, the differentiator shifts to having the best distribution, user relationships, and integration points. Meta's social platforms provide exactly those assets.\n\nThis approach also prevents any single company from controlling the foundational AI layer that future applications will depend on. For Meta, being locked out of the AI infrastructure layer by competitors like Google or OpenAI would be an existential threat to their ability to build compelling consumer experiences.",
+                "timestamp": "24:27"
+              },
+              {
+                "category": "Technology Evolution",
+                "title": "Hardware Advances Will Unlock Entirely New Interaction Models",
+                "content": "The convergence of AI improvements and hardware miniaturization is creating possibilities that weren't feasible even a few years ago. Bosworth points to smart glasses as an example—the combination of better processors, smaller components, and AI that can understand visual context makes it possible to build lightweight devices that augment rather than replace our natural interactions.\n\nThis hardware evolution isn't just about making existing experiences better—it's about enabling fundamentally new ways of interacting with information and each other. When computing becomes ambient and context-aware, the entire notion of 'using' technology changes. Instead of pulling out a device and launching an app, technology becomes part of the background fabric of our daily lives.\n\nThe companies that win in this transition will be those that can successfully integrate advanced hardware capabilities with intuitive software experiences, creating products that feel magical rather than technical.",
+                "timestamp": "08:24"
+              },
+              {
+                "category": "Business Model Evolution",
+                "title": "New Platforms Create New Competitive Dynamics for Startups",
+                "content": "Platform shifts don't just change user experiences—they completely reshape competitive landscapes and create new opportunities for startups. When the dominant interaction model changes from apps to agents, the advantages that current incumbents hold may become less relevant.\n\nHistorically, major platform transitions have been among the best times to start new companies. The shift from desktop to web created Google and Amazon. The move to mobile created Instagram, Uber, and countless other companies. The transition to an AI-driven, post-mobile world will likely create similar opportunities.\n\nStartups entering this space should focus on building for the new paradigm rather than trying to incrementally improve existing solutions. The biggest opportunities will come from reimagining entire categories of experiences rather than simply making current apps work better with AI.",
+                "timestamp": "21:28"
+              }
+            ],
+            "actionable_takeaways": [
+              "If you're building consumer products, start experimenting with intent-based interfaces now—even small features that let users express what they want rather than how to do it",
+              "Consider how your product could work in a world where users don't download apps—what would discovery and engagement look like?",
+              "When evaluating new technologies, ask whether they're incremental improvements or potential platform shifts—the latter require different strategies",
+              "Build bridge products that provide value today while preparing users for tomorrow's experiences",
+              "If you're a startup, look for categories where the current app-based model feels clunky—these may be ripe for reinvention in an AI-first world"
+            ],
+            "notable_quotes": [
+              {
+                "quote": "If we get it right, the next wave of consumer tech won't run on taps and swipes—it'll run on intent",
+                "speaker": "Andrew Bosworth",
+                "timestamp": "15:00"
+              }
+            ],
+            "topics_discussed": [
+              "Post-mobile computing",
+              "AI agents vs apps",
+              "AR/VR product strategy",
+              "Open source AI strategy",
+              "Platform transitions",
+              "Consumer hardware evolution",
+              "Intent-based interfaces"
+            ],
+            "who_should_listen": "Product leaders, startup founders, and investors interested in the next major platform shift in consumer technology—particularly those building AI-powered products or hardware experiences"
+          },
+          "processed_at": "2026-01-31T09:33:44.451Z"
+        }
+      ]
+    }
+  }
+}
