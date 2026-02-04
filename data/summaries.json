@@ -339,6 +339,67 @@
             "who_should_listen": "Healthcare entrepreneurs, B2B founders in regulated industries, investors evaluating healthcare startups, and operators at health systems or insurance companies looking to understand vendor perspectives"
           },
           "processed_at": "2026-02-03T06:59:59.688Z"
+        },
+        {
+          "id": "a16z-podcast-1770188454562",
+          "podcast_id": "a16z-podcast",
+          "podcast_name": "a16z Podcast",
+          "title": "In The Vault: How AI is Powering Payments with Greg Ulrich",
+          "published_date": "Tue, 4 Feb 2025 16:00:00 +0000",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/62c6d266-e92e-4dc7-a180-9f3aa623e441/episodes/1b9a45c4-6772-41eb-b718-64cae77096b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=62c6d266-e92e-4dc7-a180-9f3aa623e441&awEpisodeId=1b9a45c4-6772-41eb-b718-64cae77096b6&feed=AuWJKpna",
+          "duration": "00:29:15",
+          "summary": {
+            "one_liner": "Mastercard's Chief AI Officer reveals how massive enterprises can deploy AI at scale through decentralized innovation while maintaining centralized governance.",
+            "estimated_read_time": "8 min",
+            "key_insights": [
+              {
+                "category": "Organizational Strategy",
+                "title": "The Hub and Spoke Model for Enterprise AI",
+                "content": "Rather than centralizing all AI initiatives under one roof, Mastercard operates what Greg Ulrich calls a 'hub and spoke' model. The central AI team provides governance, standards, and strategic direction, while individual business units maintain autonomy to innovate and deploy AI solutions tailored to their specific needs. This approach prevents the bottlenecks that often plague centralized AI teams in large organizations, where every use case must funnel through a single group. It also ensures that AI applications remain closely tied to business problems rather than becoming abstract technology exercises.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": null
+              },
+              {
+                "category": "Risk Management",
+                "title": "The Generative AI Paradox in Fraud Detection",
+                "content": "While generative AI presents exciting opportunities for enhancing fraud detection capabilities, Ulrich highlights a fundamental tension: the same technology that could improve security systems also empowers fraudsters to create more sophisticated attacks. This creates what he describes as an 'arms race' dynamic, where financial institutions must carefully balance the benefits of deploying generative AI against the risks of inadvertently enabling bad actors. The key insight is that the decision isn't simply whether to adopt generative AI, but how to deploy it strategically while maintaining defensive advantages.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": null
+              },
+              {
+                "category": "Technology Philosophy",
+                "title": "Use Case-Driven Technology Selection",
+                "content": "Ulrich advocates for a pragmatic approach to AI deployment: start with the business problem, not the technology. Rather than asking 'How can we use generative AI?' Mastercard asks 'What business challenge are we solving, and what's the right technology for that specific use case?' This framework prevents organizations from falling into the trap of solution-seeking problems, where cutting-edge technology gets deployed without clear business justification. It also ensures that older, proven AI techniques aren't abandoned simply because newer approaches exist.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": null
+              }
+            ],
+            "actionable_takeaways": [
+              "Implement a hub-and-spoke AI model: Create centralized governance and standards while allowing business units to maintain innovation autonomy",
+              "Start with business problems, not technology capabilities when evaluating AI use cases",
+              "In regulated industries, carefully evaluate both offensive and defensive implications of deploying generative AI",
+              "Don't abandon proven AI techniques simply because newer approaches exist - match the technology to the specific use case"
+            ],
+            "notable_quotes": [
+              {
+                "quote": "Instead of centralizing every AI initiative, Mastercard operates under a 'hub and spoke' model — balancing centralized AI leadership with decentralized innovation across business units",
+                "speaker": "Episode Description",
+                "timestamp": null
+              }
+            ],
+            "topics_discussed": [
+              "Enterprise AI Organization",
+              "Fraud Detection",
+              "Generative AI Risks",
+              "Technology Selection Frameworks",
+              "AI Governance"
+            ],
+            "who_should_listen": "CTOs, Chief Data Officers, and enterprise leaders responsible for AI strategy and implementation at scale, particularly in financial services and other regulated industries"
+          },
+          "processed_at": "2026-02-04T07:00:54.562Z"
         }
       ]
     }
