@@ -1156,6 +1156,58 @@
             "who_should_listen": "AI/ML engineers, robotics entrepreneurs, product leaders building physical AI systems, investors evaluating embodied AI companies, and executives navigating AI integration in safety-critical applications"
           },
           "processed_at": "2026-02-13T07:06:28.136Z"
+        },
+        {
+          "id": "a16z-podcast-1775114475537",
+          "podcast_id": "a16z-podcast",
+          "podcast_name": "a16z Podcast",
+          "title": "In the Vault: Public Market and Macro Perspectives with Mark Casey of Capital Group",
+          "published_date": "Tue, 23 Jul 2024 15:00:00 +0000",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/62c6d266-e92e-4dc7-a180-9f3aa623e441/episodes/0a4e768c-b40c-49ea-975f-43fc7769ece1/audio/128/default.mp3?aid=rss_feed&awCollectionId=62c6d266-e92e-4dc7-a180-9f3aa623e441&awEpisodeId=0a4e768c-b40c-49ea-975f-43fc7769ece1&feed=AuWJKpna",
+          "duration": "00:26:05",
+          "summary": {
+            "one_liner": "Capital Group's Mark Casey shares his customer-focused investment philosophy and unconventional approach to evaluating public companies in fintech and beyond.",
+            "estimated_read_time": "2 min",
+            "key_insights": [
+              {
+                "category": "Investment Philosophy",
+                "title": "Customer-Focused North Star Metrics Over Traditional KPIs",
+                "content": "Casey advocates for what he calls 'unconventional North Star metrics' that prioritize customer outcomes over traditional financial metrics. This approach suggests looking beyond standard SaaS metrics to understand the real value companies create for their users. The focus on customer-centric measurement likely stems from his belief that sustainable competitive advantages emerge from genuine customer value creation rather than financial engineering.",
+                "data_highlights": [],
+                "timestamp": "8:20-12:57"
+              },
+              {
+                "category": "Investment Strategy",
+                "title": "The 'Barnacle Mode' Investment Approach",
+                "content": "Casey references entering 'barnacle mode' as part of his investment philosophy - presumably a deep-dive, attach-and-hold strategy similar to how barnacles permanently affix to surfaces. This suggests a patient, research-intensive approach to public market investing where he likely commits significant time to understanding companies before making long-term bets.",
+                "data_highlights": [],
+                "timestamp": "1:42-5:58"
+              }
+            ],
+            "actionable_takeaways": [
+              "Consider developing unconventional metrics that directly measure customer value rather than relying solely on standard financial KPIs",
+              "Adopt a 'barnacle mode' approach to important investments - commit deeply to research and understanding before making moves"
+            ],
+            "notable_quotes": [
+              {
+                "quote": "Unable to extract quotes from episode description",
+                "speaker": "N/A",
+                "timestamp": "N/A"
+              }
+            ],
+            "topics_discussed": [
+              "Investment Philosophy",
+              "Public Market Strategy",
+              "Customer Metrics",
+              "CEO Communication",
+              "Dividend Strategy",
+              "Macro Trends",
+              "AI Opportunities",
+              "Ecommerce Predictions"
+            ],
+            "who_should_listen": "Public market investors, fintech entrepreneurs, and executives looking to understand how sophisticated institutional investors evaluate companies beyond traditional metrics"
+          },
+          "processed_at": "2026-04-02T07:21:15.537Z"
         }
       ]
     }
