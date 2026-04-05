@@ -1383,6 +1383,86 @@
             "who_should_listen": "Founders and executives at scaling startups (Series A through growth stage) who are building their leadership teams, plus VCs and talent professionals involved in executive search and assessment."
           },
           "processed_at": "2026-04-04T07:08:29.102Z"
+        },
+        {
+          "id": "a16z-podcast-1775373321511",
+          "podcast_id": "a16z-podcast",
+          "podcast_name": "a16z Podcast",
+          "title": "Sales–Product Tension, the Secret to Segment’s Success",
+          "published_date": "Fri, 17 Nov 2023 15:00:00 +0000",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/62c6d266-e92e-4dc7-a180-9f3aa623e441/episodes/78a95356-38ea-44f3-8c74-5730981c733f/audio/128/default.mp3?aid=rss_feed&awCollectionId=62c6d266-e92e-4dc7-a180-9f3aa623e441&awEpisodeId=78a95356-38ea-44f3-8c74-5730981c733f&feed=AuWJKpna",
+          "duration": "00:32:19",
+          "summary": {
+            "one_liner": "Segment turned the classic sales-product tension into their secret weapon by creating structured feedback loops and ruthless prioritization that led to a $3.2B acquisition.",
+            "estimated_read_time": "12 min",
+            "key_insights": [
+              {
+                "category": "Organizational Design",
+                "title": "The Sales-Product Death Spiral Is Predictable and Fixable",
+                "content": "Most companies experience the same destructive pattern: sales promises custom features to close deals, product gets overwhelmed with one-off requests, and growth stalls as engineering resources scatter across dozens of minor features that don't move the needle. Segment's former CRO Joe Morrissey and former chief product development officer Tido Carriero recognized this wasn't just a communication problem—it was a structural one that required systematic fixes.\n\nThe turning point came during what they called their 'low point' in annual planning. Instead of treating sales and product as adversaries fighting over resources, they redesigned their entire feedback system to channel sales insights into product strategy systematically. The key insight: sales-product tension isn't a bug, it's a feature—if you structure it correctly.",
+                "data_highlights": [
+                  "$3.2B acquisition"
+                ],
+                "timestamp": "03:40"
+              },
+              {
+                "category": "Product Strategy",
+                "title": "The 48-Hour Value Driver Discovery Process",
+                "content": "Rather than letting feature requests pile up randomly, Segment developed a rapid-fire process to identify true value drivers within 48 hours. When sales brought customer feedback, the product team had exactly two days to determine whether a request represented a genuine market need or just one customer's unique situation.\n\nThis forced both teams to think beyond surface-level feature requests and dig into underlying value propositions. Sales couldn't just say 'customer wants X feature'—they had to articulate why that feature would drive business outcomes. Product couldn't dismiss requests outright—they had to quickly validate or invalidate the market opportunity. The tight timeline prevented overthinking while ensuring nothing valuable slipped through the cracks.",
+                "data_highlights": [
+                  "48 hours to identify value drivers"
+                ],
+                "timestamp": "13:04"
+              },
+              {
+                "category": "Go-to-Market Strategy",
+                "title": "Technical Sales Depth Creates Product Intelligence",
+                "content": "Segment made a counterintuitive bet: their sales team needed to be deeply technical, not just relationship-focused. This wasn't about having engineers do sales calls, but about ensuring sales reps understood the product well enough to have substantive technical conversations with prospects.\n\nThis technical depth created a virtuous cycle. Sales reps could identify which customer requests were architecturally feasible and which were impossible. They understood the difference between a feature gap and a customer education gap. Most importantly, they could spot patterns across multiple customer conversations—turning individual feature requests into market intelligence that informed broader product strategy.",
+                "timestamp": "19:11"
+              },
+              {
+                "category": "Process Innovation",
+                "title": "The Lighthouse Program: Customer-Driven Product Development",
+                "content": "Segment created their 'Lighthouse program'—a structured way to work closely with select customers on product development without falling into the custom development trap. Instead of building one-off features for individual customers, they identified customers whose needs represented broader market trends and partnered with them as co-development partners.\n\nThese lighthouse customers got early access to new features and direct input into product development, but only for features that Segment believed had broad market applicability. This created alignment: customers felt heard and got features they needed, while Segment ensured they were building for the market, not just for individual deals.",
+                "timestamp": "22:57"
+              },
+              {
+                "category": "Organizational Design",
+                "title": "Engineering-Led Roadmap Development Breaks the Feature Factory",
+                "content": "Most companies treat engineers as feature factories—sales and product decide what to build, engineering figures out how. Segment flipped this by involving engineering directly in roadmap development. Engineers didn't just estimate effort; they contributed strategic input about what was possible, what was sustainable, and what would create lasting competitive advantages.\n\nThis prevented the common scenario where sales commits to technically unfeasible features or product designs solutions that would create massive technical debt. When engineering had a voice in roadmap planning, they could propose better technical approaches that solved customer problems more elegantly than the original requests.",
+                "timestamp": "29:18"
+              }
+            ],
+            "actionable_takeaways": [
+              "Implement a 48-hour rule for evaluating customer feature requests—force both sales and product to quickly validate whether requests represent genuine market opportunities",
+              "Create 'lighthouse customer' partnerships for co-development instead of building one-off custom features",
+              "Include engineering voices in roadmap planning, not just effort estimation, to catch technical feasibility issues early",
+              "Restructure annual planning to focus on systematic feedback loops rather than just resource allocation battles",
+              "Invest in technical training for sales teams so they can distinguish between feature gaps and education gaps"
+            ],
+            "notable_quotes": [
+              {
+                "quote": "Sales-product tension isn't a bug, it's a feature—if you structure it correctly",
+                "speaker": "Joe Morrissey",
+                "timestamp": "07:59"
+              },
+              {
+                "quote": "We had 48 hours to determine whether a request represented a genuine market need or just one customer's unique situation",
+                "speaker": "Tido Carriero",
+                "timestamp": "13:04"
+              }
+            ],
+            "topics_discussed": [
+              "Sales-Product Alignment",
+              "Product Roadmap Planning",
+              "Customer Development",
+              "Organizational Design",
+              "Technical Sales",
+              "Platform Strategy"
+            ],
+            "who_should_listen": "Startup founders, product leaders, sales leaders, and anyone struggling with sales-product alignment issues, especially at B2B SaaS companies looking to scale efficiently"
+          },
+          "processed_at": "2026-04-05T07:15:21.511Z"
         }
       ]
     }
