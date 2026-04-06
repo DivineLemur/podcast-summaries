@@ -1463,6 +1463,103 @@
             "who_should_listen": "Startup founders, product leaders, sales leaders, and anyone struggling with sales-product alignment issues, especially at B2B SaaS companies looking to scale efficiently"
           },
           "processed_at": "2026-04-05T07:15:21.511Z"
+        },
+        {
+          "id": "a16z-podcast-1775462002371",
+          "podcast_id": "a16z-podcast",
+          "podcast_name": "a16z Podcast",
+          "title": "GTM #2: Product-led Marketing",
+          "published_date": "Mon, 24 May 2021 23:18:40 +0000",
+          "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/62c6d266-e92e-4dc7-a180-9f3aa623e441/episodes/2c1fbebd-be17-4d9a-9832-805ec1a27465/audio/128/default.mp3?aid=rss_feed&awCollectionId=62c6d266-e92e-4dc7-a180-9f3aa623e441&awEpisodeId=2c1fbebd-be17-4d9a-9832-805ec1a27465&feed=AuWJKpna",
+          "duration": "00:59:17",
+          "summary": {
+            "one_liner": "Product marketing is the killer function that bridges product and market, turning customer insights into strategic positioning that drives enterprise growth.",
+            "estimated_read_time": "12 min",
+            "key_insights": [
+              {
+                "category": "Organizational Design",
+                "title": "The Six-Function Marketing Blueprint for Enterprise",
+                "content": "Enterprise marketing organizations should be built around six core functions, each with distinct responsibilities and skill sets. This isn't just about org charts—it's about recognizing that modern B2B marketing requires specialized expertise across multiple disciplines. The traditional 'marketing generalist' approach breaks down at scale because each function demands deep, specific knowledge and different types of talent. Companies that try to have one person wear multiple hats often end up with mediocre execution across all areas.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "2:54"
+              },
+              {
+                "category": "Product Strategy",
+                "title": "Product Marketing as the Strategic Linchpin",
+                "content": "Product marketing emerges as the 'killer function' because it sits at the intersection of product, sales, and marketing—translating technical capabilities into market positioning and customer value propositions. Unlike other marketing functions that can be somewhat siloed, product marketing requires deep product knowledge, customer empathy, and market understanding simultaneously. The best product marketers don't just communicate what the product does; they shape what the product should become based on market feedback and competitive dynamics. This dual influence—both internal and external—makes product marketing uniquely powerful in driving business outcomes.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "6:52"
+              },
+              {
+                "category": "Hiring Strategy",
+                "title": "The Product Marketing Hiring Paradox",
+                "content": "Hiring world-class product marketers presents a unique challenge because the role requires a rare combination of analytical thinking, creative communication, and deep technical understanding. The best candidates often don't come from traditional marketing backgrounds—they might be former consultants, product managers, or even engineers who developed strong communication skills. The key is looking for people who can translate complex technical concepts into compelling narratives while maintaining analytical rigor. Experience in the specific industry or with similar products often trumps general marketing experience.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "11:16"
+              },
+              {
+                "category": "Community Strategy",
+                "title": "Community as Product Adoption Accelerant",
+                "content": "Community marketing works best when it's tightly integrated with product marketing rather than operating as a separate function. The most effective approach treats community not as top-of-funnel lead generation, but as an accelerant across the entire customer journey. Community becomes powerful when users are discussing real implementation challenges, sharing use cases, and solving problems together. This creates a feedback loop where community insights inform product development, which in turn gives the community more valuable content to discuss.",
+                "data_highlights": [],
+                "quote": "If the product you're selling becomes someone's job, then your community marketing is working.",
+                "timestamp": "29:39"
+              },
+              {
+                "category": "Revenue Strategy",
+                "title": "When Product Becomes Profession",
+                "content": "The ultimate measure of successful community marketing is when using your product becomes part of someone's professional identity. This represents a fundamental shift from transactional relationships to identity-based loyalty. When users start putting your product on their LinkedIn profiles, speaking about it at conferences, or building their career around expertise in your platform, you've created something much more valuable than customers—you've created advocates whose success is tied to your product's success. This level of engagement creates natural viral growth and significantly reduces churn.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "32:40"
+              },
+              {
+                "category": "Technology Stack",
+                "title": "Marketing's Engineering Problem",
+                "content": "Modern marketing organizations increasingly need engineering talent to properly instrument, analyze, and optimize their efforts. The complexity of marketing technology stacks, attribution models, and data integration challenges means that marketing teams can't rely solely on out-of-the-box solutions. The most sophisticated marketing organizations treat their tech stack like a product, with dedicated engineering resources to build custom integrations, attribution models, and analytics capabilities that provide competitive advantages.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "39:24"
+              },
+              {
+                "category": "Data Strategy",
+                "title": "The Data-Driven Marketing Imperative",
+                "content": "Making marketing truly data-driven requires more than just tracking metrics—it demands building systems that can connect customer touchpoints across the entire journey and attribute outcomes accurately. This becomes especially complex in enterprise sales cycles where multiple stakeholders, long sales cycles, and various touchpoints make traditional attribution models inadequate. The solution involves combining quantitative data with qualitative insights and building custom measurement frameworks that reflect the reality of how enterprise customers actually buy.",
+                "data_highlights": [],
+                "quote": null,
+                "timestamp": "41:56"
+              }
+            ],
+            "actionable_takeaways": [
+              "Structure your enterprise marketing team around six specialized functions rather than trying to find generalists who can do everything",
+              "When hiring product marketers, prioritize candidates who can translate technical complexity into clear value propositions, even if they lack traditional marketing backgrounds",
+              "Integrate community marketing with product marketing—use community insights to inform product development and give the community real implementation problems to solve",
+              "Measure community success by whether users put your product on their professional profiles, not just engagement metrics",
+              "Invest in engineering talent for your marketing organization to build custom attribution, integration, and analytics capabilities",
+              "Build measurement frameworks that account for enterprise sales complexity rather than relying on simple attribution models"
+            ],
+            "notable_quotes": [
+              {
+                "quote": "If the product you're selling becomes someone's job, then your community marketing is working.",
+                "speaker": "David Ulevitch",
+                "timestamp": "32:40"
+              }
+            ],
+            "topics_discussed": [
+              "Enterprise Marketing Organization",
+              "Product Marketing Strategy",
+              "Community Marketing",
+              "Marketing Technology Stack",
+              "Data-Driven Marketing",
+              "Hiring Strategy",
+              "Go-to-Market Strategy"
+            ],
+            "who_should_listen": "Enterprise marketing leaders, product marketers, founders scaling B2B companies, and anyone building marketing organizations for technical products"
+          },
+          "processed_at": "2026-04-06T07:53:22.371Z"
         }
       ]
     }
